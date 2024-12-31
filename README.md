@@ -49,8 +49,9 @@ The profit from producing products A and B is represented by 3𝑥.𝐴+4𝑥.�
 **Constraints:** <br>
 The first constraint represents the usage of resource 1, and the second one represents the usage of resource 2. Both must be less than or equal to the available resources (6 units each).<br>
 **Solve:** <br>
-The optimization problem is solved, and the values of x.A and x.B will tell us how many units of Product A and Product B to produce for the maximum profit.
+The optimization problem is solved, and the values of x.A and x.B will tell us how many units of Product A and Product B to produce for the maximum profit.<br>
 ​
+![image](https://github.com/user-attachments/assets/689495b9-dfcc-41f5-9ea8-023e450b857c)
 
             
 
